@@ -4,107 +4,107 @@
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_search_url_text.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color\\abc_primary_text_material_dark.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\release\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "outputFile": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/release/values-ldltr-v21/values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "file": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/release/values-ldltr-v21/values-ldltr-v21.xml",
+        "outputFile": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\release\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "file": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

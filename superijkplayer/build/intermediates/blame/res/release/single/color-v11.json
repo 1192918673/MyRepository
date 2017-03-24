@@ -1,15 +1,19 @@
 [
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\Downloads\\WliveTV-master\\LivePlayback\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
@@ -18,9 +22,5 @@
     {
         "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/superijkplayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/zhangzhanqian/AndroidStudioProjects/LivePlayback/C:\\Users\\hejunlin\\git\\TVSample\\superijkplayer\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]
