@@ -30,7 +30,9 @@ import android.view.ViewTreeObserver;
  * Created by hejunlin on 2016/10/13.
  * blog: http://blog.csdn.net/hejjunlin
  */
-public class MetroViewBorderImpl<X extends View> implements ViewTreeObserver.OnGlobalFocusChangeListener, ViewTreeObserver.OnScrollChangedListener, ViewTreeObserver.OnGlobalLayoutListener, ViewTreeObserver.OnTouchModeChangeListener {
+public class MetroViewBorderImpl<X extends View> implements
+        ViewTreeObserver.OnGlobalFocusChangeListener, ViewTreeObserver.OnScrollChangedListener,
+        ViewTreeObserver.OnGlobalLayoutListener, ViewTreeObserver.OnTouchModeChangeListener {
 
     private static final String TAG = MetroViewBorderImpl.class.getSimpleName();
 
